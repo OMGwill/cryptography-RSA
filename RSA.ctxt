@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ gcd(int,\ int)
+comment1.params=a\ m
+comment1.target=int\ mul_inverse(int,\ int)
+comment2.params=s
+comment2.target=void\ stringToint(java.lang.String)
+comment3.params=e\ n
+comment3.target=void\ encrypt(int,\ int)
+comment4.params=d\ n
+comment4.target=void\ decrypt(int,\ int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
